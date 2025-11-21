@@ -1,8 +1,8 @@
 ⚽ ProphetPlay: The Journalist AI
 
-DeepBallonNet is an advanced sports analytics engine designed to predict the winners of the 2026 Ballon d'Or and the UEFA Champions League.
+ProphetPlay is an advanced sports analytics engine designed to predict the winners of the 2026 Ballon d'Or and the UEFA Champions League.
 
-Unlike traditional stats-only models, DeepBallonNet mimics the "Journalist View"—accounting for media narratives, club prestige ("Heritage Bonus"), and trophy impact—to generate realistic, human-like power rankings.
+Unlike traditional stats-only models, ProphetPlay mimics the "Journalist View"—accounting for media narratives, club prestige ("Heritage Bonus"), and trophy impact—to generate realistic, human-like power rankings.
 
 🚀 Features
 
